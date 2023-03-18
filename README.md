@@ -1,2 +1,2 @@
 # PrepCourse-Victor
-Este es un repositorio del modulo 2 del PrepCourse Victor
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora.
